@@ -7,3 +7,6 @@ plot(x$speed ~ x$dist)
 
 lm <- lm(x$speed ~ x$dist)
 summary(lm)
+
+
+#testing github desktop
